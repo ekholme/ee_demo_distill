@@ -3,6 +3,7 @@ title: "Eric Ekholm"
 description: |
   Eric Ekholm
 output_dir: "_site"
+base_url: https://ee-demo-distill.netlify.app
 navbar:
   right:
     - text: "Home"
