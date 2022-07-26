@@ -1,28 +1,18 @@
 ---
 title: "Eric Ekholm"
-description: |
-  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
+image: "img/puppy_img.jpg"
+links:
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://linkedin.com/"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/ekholm_e"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/ekholme"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:eric.ekholm@gmail.com"
+output:
+  postcards::jolla
 ---
-
-Adding some text.
-
-**Adding some bold text**
-
-*Italics*
-
-- bulleted list
-- item 2
-
-1. numbered list
-1. item 2
-1. item 3
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
-
+ 
+I like working with data!
