@@ -18,4 +18,4 @@ Some more text
 
 etc, etc
 
-![]("img/puppies.jpg")
+![](img/puppies.jpg){width:50%}

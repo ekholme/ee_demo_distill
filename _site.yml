@@ -4,6 +4,7 @@ description: |
   Eric Ekholm
 output_dir: "_site"
 base_url: https://ee-demo-distill.netlify.app
+theme: theme.css
 navbar:
   right:
     - text: "Home"

@@ -4,29 +4,29 @@
       "path": "about.html",
       "title": "About Me",
       "author": [],
-      "contents": "\r\nHeader 1\r\nSome text\r\nHeader 2\r\nSome more text\r\nSubheading 1\r\netc, etc\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-26T12:00:52-04:00"
+      "contents": "\r\nHeader 1\r\nSome text\r\nHeader 2\r\nSome more text\r\nSubheading 1\r\netc, etc\r\n{width:50%}\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-26T12:28:34-04:00"
     },
     {
       "path": "index.html",
       "title": "Eric Ekholm",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Eric Ekholm\r\n          \r\n          \r\n          Home\r\n          CV\r\n          About\r\n          \r\n          \r\n          Projects\r\n           \r\n          ▾\r\n          \r\n          \r\n          Publications\r\n          Project 2\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Eric Ekholm\r\n          \r\n          \r\n            \r\n              I like working with data!\r\n            \r\n            \r\n              I like working with data!\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                       LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                       Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                       GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                       Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                     LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                     Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                     GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                     Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2022-07-26T12:00:54-04:00"
+      "last_modified": "2022-07-26T12:28:36-04:00"
     },
     {
       "path": "proj2.html",
       "title": "Project 2",
       "author": [],
       "contents": "\r\nR Markdown\r\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\r\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\r\n\r\n\r\nsummary(cars)\r\n\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\n\r\n\r\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-26T12:01:00-04:00"
+      "last_modified": "2022-07-26T12:28:42-04:00"
     },
     {
       "path": "pubs.html",
       "title": "Publications",
       "author": [],
       "contents": "\r\nA list of some of my publications…\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-26T12:01:04-04:00"
+      "last_modified": "2022-07-26T12:28:46-04:00"
     }
   ],
   "collections": []
