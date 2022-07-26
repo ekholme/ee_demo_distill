@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-26T10:52:16-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Eric Ekholm",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nAdding some text.\r\nAdding some bold text\r\nItalics\r\nbulleted list\r\nitem 2\r\nnumbered list\r\nitem 2\r\nitem 3\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-26T10:52:19-04:00"
+    }
+  ],
+  "collections": []
+}

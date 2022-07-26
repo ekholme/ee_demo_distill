@@ -1,0 +1,28 @@
+---
+title: "Eric Ekholm"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+Adding some text.
+
+**Adding some bold text**
+
+*Italics*
+
+- bulleted list
+- item 2
+
+1. numbered list
+1. item 2
+1. item 3
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
